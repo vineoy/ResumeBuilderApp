@@ -59,7 +59,7 @@ The AI Resume Generator is a web application that helps users create professiona
 
 
 ## Installation
-
+### Download ollama and add the deepseek-r1:7b model on your system 
 ### Clone the repository:
 ```bash
   git clone https://github.com/yourusername/ai-resume-generator.git
